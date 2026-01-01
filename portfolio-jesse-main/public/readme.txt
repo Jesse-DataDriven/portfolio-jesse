@@ -1,1 +1,0 @@
-Pasta pública para imagens, logos, assets.
